@@ -1,3 +1,5 @@
+// Programa de aplicação de administra e cadastro de produtos
+// Incli=ui e consulta de daod do produto
 
 public class Produto {
 
