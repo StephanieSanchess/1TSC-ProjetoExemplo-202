@@ -1,10 +1,10 @@
 // Programa de aplicação de administra e cadastro de produtos
-// Incli=ui e consulta de daod do produto
+// Incluiu e consulta de daod do produto
 
 public class Produto {
 
-	private double peso;
-	private double altura;
+	private int peso;
+	private int altura;
 	
 	public Produto() {
 		
@@ -15,7 +15,7 @@ public class Produto {
 		this.altura=altura;
 	}
 	
-	public double getPeso() {
+	public int getPeso() {
 		return peso;
 	}
 	
@@ -23,7 +23,7 @@ public class Produto {
 		this.peso = peso;
 	}
 	
-	public double getAltura() {
+	public int getAltura() {
 		return altura;
 	}
 	
